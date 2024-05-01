@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practice_2_6</string>
+    <string name="Hello">AKOPYAN OGANES RIBO-03-22 VARIANT 1</string>
+    <string name="Goodbye">ПОКА</string>
+    <string name="start">START</string>
+    <string name="answer">Answer:</string>
+    <string name="calculate">Calculate</string>
+    <string name="third_value">Third value</string>
+    <string name="second_value">Second value</string>
+    <string name="first_value">First value</string>
+</resources>
